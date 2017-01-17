@@ -1,6 +1,6 @@
 # xReact
 
-This is an Express template I plan to use for my own projects. It's still work in progress but you can check it out. You can also checkout my [xvue](https://github.com/gianlucacandiotti/xvue) template that uses almost the same configuration but supports Vue.js.
+This is an Express template I plan to use for my own projects. It's still work in progress but you can check it out. You can also checkout my [xVue](https://github.com/gianlucacandiotti/xvue) template that uses almost the same configuration but supports Vue.js.
 
 ## Why did you do this ?
 
